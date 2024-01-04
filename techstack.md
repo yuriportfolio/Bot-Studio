@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 yuriportfolio/Bot-Studio is built on the following main stack:
+
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [React](https://reactjs.org/) – Javascript UI Libraries
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -16,11 +17,13 @@ yuriportfolio/Bot-Studio is built on the following main stack:
 - [Zustand](https://github.com/react-spring/zustand) – State Management Library
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 yuriportfolio/Bot-Studio is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -35,14 +38,15 @@ yuriportfolio/Bot-Studio is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/11559/zustand.png' alt='Zustand'/> [Zustand](https://github.com/react-spring/zustand) – State Management Library
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [yuriportfolio/Bot-Studio](https://github.com/yuriportfolio/Bot-Studio)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|39<br/>Tools used|11/09/23 <br/>Report generated|
+|41<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -203,9 +207,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (22)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (24)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (22)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (24)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -224,6 +228,7 @@ Full tech stack [here](/techstack.md)
 |[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v4.2.1|03/09/23|hdsuperman |MIT|N/A|
 |[eslint-plugin-react](https://www.npmjs.com/eslint-plugin-react)|v7.32.2|03/09/23|hdsuperman |MIT|N/A|
 |[eslint-plugin-react-hooks](https://www.npmjs.com/eslint-plugin-react-hooks)|v4.6.0|03/09/23|hdsuperman |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.3|03/09/23|hdsuperman |MIT|N/A|
 |[immer](https://www.npmjs.com/immer)|v9.0.19|03/09/23|hdsuperman |MIT|N/A|
 |[postcss](https://www.npmjs.com/postcss)|v8.4.14|03/09/23|hdsuperman |MIT|[CVE-2023-44270](https://github.com/advisories/GHSA-7fh5-64p2-3v2j) (Moderate)|
 |[react-dom](https://www.npmjs.com/react-dom)|v18.2.0|03/09/23|hdsuperman |MIT|N/A|
@@ -231,8 +236,9 @@ Full tech stack [here](/techstack.md)
 |[tailwindcss](https://www.npmjs.com/tailwindcss)|v3.2.7|03/09/23|hdsuperman |MIT|N/A|
 |[ua-parser-js](https://www.npmjs.com/ua-parser-js)|v1.0.34|03/17/23|hdsuperman |AGPL-3.0|N/A|
 |[uuid](https://www.npmjs.com/uuid)|v9.0.0|03/16/23|hdsuperman |MIT|N/A|
+|[yup](https://www.npmjs.com/yup)|v1.0.2|03/09/23|hdsuperman |MIT|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
